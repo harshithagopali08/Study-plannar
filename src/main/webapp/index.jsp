@@ -188,7 +188,7 @@ img {
         <div>
           <a href="index.jsp">Home</a>
             <a href="log.jsp">Login</a>
-            <a href="register.jsp">Register</a>
+            <a href="log.jsp">Register</a>
             <a href="aboutus.jsp">About Us</a>
             <a href="contact.jsp">Contact Us</a>
         </div>
